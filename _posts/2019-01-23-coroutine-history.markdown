@@ -2,7 +2,7 @@
 layout: post
 title:  "Python中的关于协程的语法演变"
 date:   2019-01-23 19:21:44 +0800
-categories: note 
+categories: [note, python]
 ---
 
 # 概述
